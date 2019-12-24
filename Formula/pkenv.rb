@@ -14,6 +14,6 @@ class Pkenv < Formula
   end
 
   test do
-    system "bin/tfenv", "list-remote"
+    system "bin/pkenv", "list-remote"
   end
 end
