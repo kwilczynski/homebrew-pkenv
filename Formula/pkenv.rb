@@ -1,8 +1,8 @@
 class Pkenv < Formula
   desc "Packer version manager mainly inspired by tfenv"
   homepage "https://github.com/iamhsa/pkenv"
-  url "https://github.com/iamhsa/pkenv/archive/0.5.0.tar.gz"
-  sha256 "95af42f51716b687ad4dfd59307d1d5041621a6d3344a752757c677bc5887d6d"
+  url "https://github.com/iamhsa/pkenv/archive/0.5.3.tar.gz"
+  sha256 "363e604d30b2e25e7fd56a08c6c4ebc1a0eb1165f7d6aef14711842100748329"
   license "MIT"
   head "https://github.com/iamhsa/pkenv.git", branch: "master"
 
